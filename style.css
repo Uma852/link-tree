@@ -33,6 +33,7 @@ body{
 
 
 
+
     .button
     {
         margin-left:auto;
@@ -49,5 +50,12 @@ body{
            width: 20%;
 
     } 
+html
+{
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    min-height:100%;
+}
    
 
