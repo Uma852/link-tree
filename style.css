@@ -1,0 +1,53 @@
+h1 {
+    font-weight: lighter;
+    font-size: 50px;
+    color:whitesmoke;
+    text-align: center;
+    padding-top: 40px;
+    margin: 0;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+  
+  img {
+    display: block;
+    border-radius: 50%;
+
+   
+    
+    
+     
+    margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  }
+
+
+
+    .button
+    {
+        margin-left:auto;
+        margin-right:auto; 
+        font-size: 24px; 
+        background-color: transparent;
+       
+     cursor: pointer;
+        text-align: center;
+         display: block;
+         color:yellow;
+             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        height: 50px;
+           width: 20%;
+
+    } 
+   
+
